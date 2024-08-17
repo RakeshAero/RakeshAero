@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Rakesh Balu</h1>
+<h1 align="center">I'm Rakesh</h1>
 <h3 align="center">A passionate cyber security student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshaero&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshaero" /> </p>
 
 - 🔭 I’m currently working on **web engineering**
 
-- 🌱 I’m currently learning **Core Java, Javascript, PHP, ReactJS**
+- 🌱 Currently learnings **Core Java, Javascript, PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakeshAero](https://github.com/RakeshAero)
 
-- 📝 I regularly write articles on [https://medium.com/@RakeshBalu](https://medium.com/@RakeshBalu)
+- 📝 Blogs on [https://medium.com/@RakeshBalu](https://medium.com/@RakeshBalu)
 
-- 💬 Ask me about **Cyber Security, HTML, CSS, JAVA**
+- 📫 Reach me == > **rakeshaero55743@gmail.com**
 
-- 📫 How to reach me **rakeshaero55743@gmail.com**
+- 📄 GitHub Repo [https://github.com/RakeshAero](https://github.com/RakeshAero)
 
-- 📄 Know about my experiences [https://github.com/RakeshAero](https://github.com/RakeshAero)
-
-- ⚡ Fun fact **Just Do it**
+- ⚡ **Just Do it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
