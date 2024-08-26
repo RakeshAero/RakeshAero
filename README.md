@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web engineering**
 
-- 🌱 Currently learnings **Core Java, Javascript, PHP**
+- 🌱 Currently learnings **DSA, Core Java, Javascript, PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakeshAero](https://github.com/RakeshAero)
 
