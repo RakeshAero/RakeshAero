@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **web engineering**
 
-- 🌱 Currently learnings **DSA, Core Java, Javascript, PHP**
+- 🌱 Current learnings **DSA, Core Java, Javascript, PHP**
 
 - 📫 Reach me == > **rakeshaero55743@gmail.com**
 
