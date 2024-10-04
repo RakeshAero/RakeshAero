@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshaero&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshaero" /> </p>
 
-- 🔭 I’m currently working on **web engineering***
+- 🔭 I’m currently working on ***web engineering***
 
 - 🌱 Current learnings **DSA, Core Java, Javascript, PHP**
 
