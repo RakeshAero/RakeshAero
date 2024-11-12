@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakeshaero&show_icons=true&locale=en&layout=compact" alt="rakeshaero" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshaero&show_icons=true&locale=en" alt="rakeshaero" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshaero&show_icons=true&locale=en" alt="rakeshaero" /></p>--!>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshaero&" alt="rakeshaero" /></p>
