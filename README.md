@@ -2,6 +2,7 @@
 <h3 align="center">A passionate cyber security student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshaero&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshaero" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshaero" alt="rakeshaero" /></a> </p>
 
 - 🔭 I’m currently working on ***web engineering***
 
